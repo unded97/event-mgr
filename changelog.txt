@@ -1,0 +1,3 @@
+26/09/2026
+    Added basic addEvent, displayEvent and menu functions
+    code works for now
